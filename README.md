@@ -49,7 +49,7 @@ sum by (pod) (rate(container_cpu_usage_seconds_total{namespace="apps",pod!=""}[5
 ## Conclusiones
 
 Como conclusión, Prometheus es una herramienta que nos permite monitorear las queries que queramos en nuestra aplicación de una manera sencilla.
-
+Además la instalación fue fácil de realizar y su uso tampoco fue tan complicado.
 ### Integrantes 
 - Joe Acuña
 - Bryan Díaz
